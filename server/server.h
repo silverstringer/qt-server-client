@@ -21,6 +21,8 @@ namespace RBT {
     using pPackage = std::shared_ptr<Package>;
     using typePackage = Package::TypePackage;
     using DataType = container_map<int>;
+    using HeaderType = std::vector<std::string>;
+
 
     class Server : public QObject {
     Q_OBJECT

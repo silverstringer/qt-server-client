@@ -1,0 +1,14 @@
+#Tools
+
+# IDEs
+/*.idea
+
+#Library
+
+#Build
+/build
+/cmake-build-debug
+
+#Documentaion
+/doxygen
+/docs
